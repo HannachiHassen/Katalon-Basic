@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This is a test case using Katalon Web record</description>
+   <name>Test1_RecordMode</name>
+   <tag>@smoke, @sanity</tag>
+   <comment></comment>
+   <testCaseGuid>a4b0965a-b868-4f03-9d6b-417d836bed51</testCaseGuid>
+</TestCaseEntity>
